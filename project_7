@@ -12,7 +12,12 @@ stakeholder want to predict which features play key role in increasing his outle
 After I read Data it was cleaned from duplicated but it has missing values , according preprocessing steps I fill missing values in continoues
 variables with  strategy=(mean) , and made appropriate Encoding for categorical features , Column Transformer aggregated all preprocessing
 steps and Iprepered Data for modeling.
-# Results
+# Results 
+-  Visual 1 outlet_supermarket type  vs sales_outlet_price
+
+
+
+
 
 
 
