@@ -14,7 +14,17 @@ variables with  strategy=(mean) , and made appropriate Encoding for categorical 
 steps and Iprepered Data for modeling.
 # Results 
 -  Visual 1 outlet_supermarket type  vs sales_outlet_price
+-  ![item_outlet_sales vs supermarket type](https://github.com/user-attachments/assets/7104e8e1-83c3-4f0a-be2d-8931ee4bf163)
+  We observe that supermarket type3 has the highest sales_avarage where as grocery store has the lowest one
+ Visual 2 Item_MPR vs sales_outlet_price
+![Item_MPR  vs  item_outlet_sales](https://github.com/user-attachments/assets/969f7086-1c90-445a-9627-774ec39db7bf)
+As seen the Item_MPR playes crusial role affecting on outlet_sales generaly , since when MPR increased the outlet_sales
+ increased positivly
 
+
+
+
+   
 
 
 
